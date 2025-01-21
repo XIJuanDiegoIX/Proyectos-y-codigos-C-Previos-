@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1715125711 source:c:\users\thinkpad\onedrive\documentos\codigos c\proyecto_final(la perla)\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<vector>
+

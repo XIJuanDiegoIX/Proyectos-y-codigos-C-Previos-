@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1698816643 source:c:\users\thinkpad\onedrive\documentos\codigos c\switch temperaturas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

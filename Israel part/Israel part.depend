@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1715123654 source:c:\users\thinkpad\onedrive\documentos\codigos c\israel part\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<vector>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697399113 source:c:\users\thinkpad\onedrive\documentos\codigos c\ejercicio arreglos bidimensionales\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

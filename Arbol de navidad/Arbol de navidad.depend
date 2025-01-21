@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699823603 source:c:\users\thinkpad\onedrive\documentos\codigos c\arbol de navidad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

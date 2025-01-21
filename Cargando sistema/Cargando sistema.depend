@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1699830638 source:c:\users\thinkpad\onedrive\documentos\codigos c\cargando sistema\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+

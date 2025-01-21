@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695870911 source:c:\users\thinkpad\onedrive\documentos\codigos c\numeros positivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

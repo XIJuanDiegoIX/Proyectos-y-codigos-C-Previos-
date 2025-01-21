@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695356171 source:c:\users\thinkpad\onedrive\documentos\codigos c\fizzbuss\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

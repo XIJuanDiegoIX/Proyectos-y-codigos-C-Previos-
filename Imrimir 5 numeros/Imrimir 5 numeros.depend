@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696802796 source:c:\users\thinkpad\onedrive\documentos\codigos c\imrimir 5 numeros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
